@@ -1,4 +1,4 @@
-# df_capstone
+# Digital Futures Capstone Project: Predicting Tour de France Rider Placement Using a Random Forest Model
 
 ## INTRODUCTION
 ### The Tour de France is most prestigious road cycling race of the year, and has been a staple in my family’s calendar every year. In this project I aimed to create a data-driven system of prediction using different metrics from professional cycling. 
